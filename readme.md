@@ -29,6 +29,7 @@
 https://github.com/user-attachments/assets/98f0a867-46c5-4661-8308-5de9e60a960b
 
 - Gazebo and ROS 2 Control : 
+
 `ros2 launch lerobot_description so101_gazebo.launch.py`  
 `ros2 launch lerobot_controller so101_controller.launch.py`
 
@@ -37,6 +38,7 @@ https://github.com/user-attachments/assets/98f0a867-46c5-4661-8308-5de9e60a960b
 https://github.com/user-attachments/assets/7d82b15c-8276-43b1-9b73-00b3567a5cf7
 
 - Gazebo, ROS 2 Control and MoveIt : 
+
 `ros2 launch lerobot_description so101_gazebo.launch.py`  
 `ros2 launch lerobot_controller so101_controller.launch.py`  
 `ros2 launch lerobot_moveit so101_moveit.launch.py`
