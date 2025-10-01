@@ -12,9 +12,9 @@ Clone this repository and install dependencies using [rosdep](https://docs.ros.o
 
 
 ### Clone the repository
-`git clone https://github.com/Pavankv92/lerobot_ws.git`
+`git clone hhttps://github.com/ErroujiOussama/so100-ibvs-vision-control`
 
-`cd lerobot_ws`
+`cd SO100_simulation/lerobot_ws`
 
 ### Install ROS 2 dependencies
 `rosdep update`
