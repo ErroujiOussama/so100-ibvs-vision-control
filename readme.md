@@ -1,4 +1,9 @@
 # ROS2 implementation of Image-Based Visual Servoing (IBVS) for the SO101
+
+<p align="center">
+  <img src="assets/IBVS.png" width="500">
+</p>
+
 - Note : LeRobot SO-ARM101 integrated into ROS 2 Jazzy.
 
 ## Installation
